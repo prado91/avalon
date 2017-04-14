@@ -1,0 +1,11 @@
+{
+  "name": "prado91/avalon",
+  "description": "test packagist",
+  "type": "library",
+  "keywords": ["packagist", "test"],
+  "homepage": "https://github.com/prado91/avalon",
+  "require": {
+    "php": "^5.3.3 || ^7.0",
+    "ext-mbstring": "*"
+  }
+}
